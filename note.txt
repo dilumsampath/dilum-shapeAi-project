@@ -1,0 +1,21 @@
+-------------------------------------------------------------
+Weather Stats for - COLOMBO  || 22 Jun 2021 | 11:10:43 AM
+-------------------------------------------------------------
+Current temperature is: 29.97 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 82 %
+Current wind speed    : 5.83 kmph
+-------------------------------------------------------------
+Weather Stats for - LONDON  || 22 Jun 2021 | 11:12:27 AM
+-------------------------------------------------------------
+Current temperature is: 15.41 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 62 %
+Current wind speed    : 1.79 kmph
+-------------------------------------------------------------
+Weather Stats for - JAFFNA  || 22 Jun 2021 | 11:13:57 AM
+-------------------------------------------------------------
+Current temperature is: 28.90 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 77 %
+Current wind speed    : 6.63 kmph
